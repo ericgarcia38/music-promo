@@ -10,7 +10,14 @@
       "mood": ["happy", "party"]
       "active": true,
       "note": "Single principal - max promotion",
-      "platforms": ["playlistpartner", "pitchplaylists", "submithub", "dailyplaylists", "indiemono"]
+      "pitch": "Hi! I'm Eric Francois Garcia, and this is 'Blood on the Disco', an energetic indie-pop disco track with catchy hooks and a feel-good vibe. It's been getting great feedback from early listeners and I think it would be a perfect fit for your playlist. Thanks for your time!",
+      "platforms": {
+        "playlistpartner": true,
+        "pitchplaylists": true,
+        "submithub": true,
+        "dailyplaylists": true,
+        "indiemono": true
+      }
     },
     {
       "id": "track_002",
@@ -21,7 +28,13 @@
       "mood": ["happy", "party"]
       "active": true,
       "note": "Sortie le 15 juin",
-      "platforms": ["playlistpartner", "pitchplaylists", "submithub", "dailyplaylists", "indiemono"]
+        "pitch": "Hi! I'm Eric Francois Garcia, and this is 'Blood on the Disco', an energetic indie-pop disco track with catchy hooks and a feel-good vibe. It's been getting great feedback from early listeners and I think it would be a perfect fit for your playlist. Thanks for your time!",
+      "platforms": {
+        "playlistpartner": true,
+        "pitchplaylists": true,
+        "submithub": true,
+        "dailyplaylists": true,
+        "indiemono": true
     },
     {
       "id": "track_003",
@@ -32,7 +45,13 @@
       "mood": ["happy", "party"]
       "active": true,
       "note": "En pause cette semaine",
-      "platforms": ["playlistpartner", "pitchplaylists", "submithub", "dailyplaylists", "indiemono"]
+        "pitch": "Hi! I'm Eric Francois Garcia, and this is 'Blood on the Disco', an energetic indie-pop disco track with catchy hooks and a feel-good vibe. It's been getting great feedback from early listeners and I think it would be a perfect fit for your playlist. Thanks for your time!",
+      "platforms": {
+        "playlistpartner": true,
+        "pitchplaylists": true,
+        "submithub": true,
+        "dailyplaylists": true,
+        "indiemono": true
     }
   ]
 }
