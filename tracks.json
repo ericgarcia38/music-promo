@@ -1,0 +1,38 @@
+{
+  "github_raw_url": "https://github.com/ericgarcia38/music-promo",
+  "tracks": [
+    {
+      "id": "track_001",
+      "title": "Blood on the Disco",
+      "artist": "Eric Francois Garcia",
+      "spotify_url": "https://open.spotify.com/track/1Q9KtECwtKYdLK67AxE57d?si=ff5a6f3ff7404066
+	  "genre": "Dance",
+      "mood": "energetic",
+      "active": true,
+      "note": "Single principal - max promotion",
+      "platforms": ["playlistpartner", "pitchplaylists", "submithub", "dailyplaylists", "indiemono"]
+    },
+    {
+      "id": "track_002",
+      "title": "Get Outta My Sledge",
+      "artist": "Eric Francois Garcia",
+      "spotify_url": "https://open.spotify.com/track/5vBVHbuYSGUCM1PFB5aeIv?si=1865d4d9d7c84c5a",
+      "genre": "lo-fi",
+      "mood": "chill",
+      "active": true,
+      "note": "Sortie le 15 juin",
+      "platforms": ["playlistpartner", "pitchplaylists", "submithub", "dailyplaylists", "indiemono"]
+    },
+    {
+      "id": "track_003",
+      "title": "France 3000 Remix Club",
+      "artist": "Eric Francois Garcia",
+      "spotify_url": "https://open.spotify.com/track/4TdwkomSBQMz4mBpmj9Ro0?si=04d04e17f20d4f4c",
+      "genre": "indie",
+      "mood": "sad",
+      "active": True,
+      "note": "En pause cette semaine",
+      "platforms": ["playlistpartner", "pitchplaylists", "submithub", "dailyplaylists", "indiemono"]
+    }
+  ]
+}
