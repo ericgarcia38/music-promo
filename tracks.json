@@ -1,16 +1,15 @@
 {
-  "github_raw_url": "https://raw.githubusercontent.com/ericgarcia38/music-promo/main/tracks.json",
   "tracks": [
     {
       "id": "track_001",
       "title": "Blood on the Disco",
       "artist": "Eric Francois Garcia",
       "spotify_url": "https://open.spotify.com/track/1Q9KtECwtKYdLK67AxE57d?si=ff5a6f3ff7404066",
-	 "genre": ["disco", "dance"," french house", "funk"],
+      "genre": ["disco", "dance", "french house", "funk"],
       "mood": ["happy", "party"],
       "active": true,
       "note": "Single principal - max promotion",
-      "pitch": "Hi! I'm Eric Francois Garcia, and this is 'Blood on the Disco', an energetic indie-pop disco track with catchy hooks and a feel-good vibe. It's been getting great feedback from early listeners and I think it would be a perfect fit for your playlist. Thanks for your time!",
+      "pitch": "Hi! I'm Eric Francois Garcia, and this is 'Blood on the Disco', an energetic disco-funk track with catchy hooks and a feel-good vibe. It's been getting great feedback from early listeners and I think it would be a perfect fit for your playlist. Thanks for your time!",
       "platforms": {
         "playlistpartner": true,
         "pitchplaylists": true,
@@ -24,34 +23,36 @@
       "title": "Get Outta My Sledge",
       "artist": "Eric Francois Garcia",
       "spotify_url": "https://open.spotify.com/track/5vBVHbuYSGUCM1PFB5aeIv?si=1865d4d9d7c84c5a",
-      "genre": ["disco", "dance"," french house", "funk"],
+      "genre": ["disco", "dance", "french house", "funk"],
       "mood": ["happy", "party"],
       "active": true,
       "note": "Sortie le 15 juin",
-        "pitch": "Hi! I'm Eric Francois Garcia, and this is 'Blood on the Disco', an energetic indie-pop disco track with catchy hooks and a feel-good vibe. It's been getting great feedback from early listeners and I think it would be a perfect fit for your playlist. Thanks for your time!",
+      "pitch": "Hi! I'm Eric Francois Garcia, and this is 'Get Outta My Sledge', a high-energy disco-funk banger perfect for dance floors and feel-good playlists. Would love to have it featured. Thanks for listening!",
       "platforms": {
         "playlistpartner": true,
         "pitchplaylists": true,
         "submithub": true,
         "dailyplaylists": true,
         "indiemono": true
+      }
     },
     {
       "id": "track_003",
       "title": "France 3000 Remix Club",
       "artist": "Eric Francois Garcia",
       "spotify_url": "https://open.spotify.com/track/4TdwkomSBQMz4mBpmj9Ro0?si=04d04e17f20d4f4c",
-     "genre": ["disco", "dance"," french house", "funk"],
+      "genre": ["disco", "dance", "french house", "funk"],
       "mood": ["happy", "party"],
       "active": true,
-      "note": "En pause cette semaine",
-        "pitch": "Hi! I'm Eric Francois Garcia, and this is 'Blood on the Disco', an energetic indie-pop disco track with catchy hooks and a feel-good vibe. It's been getting great feedback from early listeners and I think it would be a perfect fit for your playlist. Thanks for your time!",
+      "note": "Remix Club version",
+      "pitch": "Hi! I'm Eric Francois Garcia, and this is 'France 3000 Remix Club', a french house remix full of energy and groove. Perfect for disco, dance and french house playlists. Hope you enjoy it!",
       "platforms": {
         "playlistpartner": true,
         "pitchplaylists": true,
         "submithub": true,
         "dailyplaylists": true,
         "indiemono": true
+      }
     }
   ]
 }
