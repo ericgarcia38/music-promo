@@ -30,7 +30,7 @@
       "spotify_url": "https://open.spotify.com/track/4TdwkomSBQMz4mBpmj9Ro0?si=04d04e17f20d4f4c",
      "genre": ["disco", "dance"," french house", "funk"],
       "mood": ["happy", "party"]
-      "active": True,
+      "active": true,
       "note": "En pause cette semaine",
       "platforms": ["playlistpartner", "pitchplaylists", "submithub", "dailyplaylists", "indiemono"]
     }
